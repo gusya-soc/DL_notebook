@@ -1,2 +1,2 @@
-# DL_notebook
-some lovely notebook files of deep learning
+# notebook_collection
+some lovely notebook files
